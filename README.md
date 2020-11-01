@@ -10,7 +10,7 @@ Navigation
 * [Hackathon Overview](#hackathon-overview)
 * [Sponsors](#event-timeline)
 * [Getting Help](#getting-help)
-* [Contact](#contact)
+* [Socials](#socials)
 
 
 ## Introduction
@@ -20,6 +20,7 @@ Navigation
 
 
 ## Hackathon Overview
+
 ### Heart of England
 
 ### Prizes
@@ -33,6 +34,13 @@ Navigation
 
 ## Getting Help
 
-## Contact
+
+
+## Socials
+
+[Facebook](link.wdss.io/facebook)
+[Instagram](link.wdss.io/instagram)
+[Linkedin](link.wdss.io/linkedin)
+[YouTube](link.wdss.io/youtube)
 
 
