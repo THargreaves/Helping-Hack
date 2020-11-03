@@ -7,16 +7,26 @@ Spotted a mistake, dead link, or have suggestions for improvements? Report these
 **Navigation**
 * [Introduction](#introduction)
 * [Hackathon Overview](#hackathon-overview)
-* [Sponsors](#event-timeline)
+* [Heart of England](#heart-of-england)
+* [Prizes and Sponsors](#prizes-and-sponsors)
+* [Event Timeline](#event-timeline)
+* [FAQs](#faqs)
 * [Getting Help](#getting-help)
 * [Socials](#socials)
 
 
 ## Introduction
-The Helping Hack Hackathon is designed to be an inclusive event for anyone to attend, with the aim of giving back.
+
+The Helping Hack Charity Hackathon is designed to be an inclusive event for anyone to attend, with the aim of giving back.
 As such we have teamed up with the local Midlands-based charity, Heart of England, as well as working with our friends 
 at Warwick Statistics Society to set up this exciting virtual event. This two-day hackathon involves talks, workshops 
 and some thrilling competitions with great prizes on offer!
+
+## Hackathon Overview
+
+The hackathon consists of two main competitions. These will be released at the start of the hackathon on Friday 13th at 7pm
+on the Teams Group, under the 'General' channel. Submissions should be a script with an accompanying report, and should
+be submitted via the upload link found [here]().
 
 ## Heart of England
 
@@ -46,28 +56,44 @@ and internship are open now. Learn more about their opportunities by clicking [h
 
 A rough agenda for the hackathon is as follows:
 
-### Friday 13th November
+### Friday 13th November 2020
 
-(6-7pm) Live talk on YouTube with Heart of England discussing their work and the Hackathon
-(7pm) Hackathon officially begins
+- Instructions to the hackathon
+- Data released
 
-### Saturday 14th November
+***(6-7pm)*** Live talk on YouTube with Heart of England discussing their work and the Hackathon
 
+***(7pm)*** Hackathon officially begins
 
-### Sunday 15th November
+### Saturday 14th November 2020
 
-(7pm) Hackathon officially ends
-(7-7:30pm) Concluding talk 
+- Opportunity for the teams to ask questions related to the task
+
+***(4-5pm)*** Check-in session on Microsoft Teams
+
+### Sunday 15th November 2020
+
+All submissions must be uploaded
+
+***(7pm)*** Hackathon officially ends and cut-off for submissions
+
+***(7-7:30pm)*** Concluding talk 
 
 ### Moving Forward
 
+- Competition winners will be announced and prizes given out
 - Workshops with Warwick Data Science Society and Warwick Statistics Society
-- 
+
+
+## FAQs
+
 
 
 ## Getting Help
 
-
+Help will be provided throughout the hackathon in a number of ways
+- Most help can be sought by sending messages on the Teams 'Get Help' channel
+- We will also hold some live Q&A sessions
 
 ## Socials
 
