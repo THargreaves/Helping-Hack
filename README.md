@@ -34,12 +34,11 @@ We are working with Heart of England, a charity that raises money to fund and de
 the West Midlands and Warwickshire. Since 1995, they have distributed over £16 million locally, benefitting an 
 estimated 2 million people. 
 
-In the 2017/18 they awarded over £2.5 million to support communities across the West 
-Midlands to thrive. Similarly, their endowment fund has also grown to £9.4 million, providing a continued legacy 
-for communities.
+In 2017/18 they awarded over £2.5 million to support communities across the West Midlands to thrive. Similarly, 
+their endowment fund has also grown to £9.4 million, providing a continued legacy for communities.
 
-Their amazing work helping communities inspired us to work with them on this hackathon. You can read more about their 
-amazing work [here](https://www.heartofenglandcf.co.uk/).
+Their amazing work helping communities inspired us to work with them on this hackathon. You can read more about the
+projects they do [here](https://www.heartofenglandcf.co.uk/).
 
 ## Prizes and Sponsors
 
@@ -50,7 +49,7 @@ SIG’s Quantitative Trader Programme, and Trading Internship, is widely recogni
 education programme. All of SIG’s education is taught in house by Senior Traders and combines hands-on practical 
 experience, quantitative project work and game theory education. You don’t need to have any financial experience or 
 knowledge to be a trader in SIG, they’ll teach you everything you need to know. Applications for the 2021 QT Programme 
-and internship are open now. Learn more about their opportunities by clicking [here](https://www.sig.com/campus-programmes/trading/):
+and internship are open now. Learn more about their opportunities by clicking [here](https://www.sig.com/campus-programmes/trading/).
 
 ## Event Timeline
 
