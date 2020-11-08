@@ -72,20 +72,29 @@ A rough agenda for the hackathon is as follows:
 
 ### Sunday 15th November 2020
 
-All submissions must be uploaded
+- Submissions to be uploaded
 
-***(7pm)*** Hackathon officially ends and cut-off for submissions
+***(7pm)*** Machine Learning Competition ends and cut-off for submissions
 
 ***(7-7:30pm)*** Concluding talk 
 
-### Moving Forward
+### Friday 4th December 2020
 
-- Competition winners will be announced and prizes given out
-- Workshops with Warwick Data Science Society and Warwick Statistics Society
+- Submissions to be uploaded
 
+***(7pm)*** Data Story-telling Competition ends and cut-off for submissions
+
+### Later in December...
+
+- Competition winners will be announced and prizes send out 
 
 ## FAQs
 
+### How many team members am I allowed?
+
+Teams must be a maximum of 4. To enter please fill in this form:
+
+If you don't have a team, but would like to be part of one, you can fill in this form to be matched with like-minded people.
 
 
 ## Getting Help
