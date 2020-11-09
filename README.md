@@ -24,9 +24,31 @@ and some thrilling competitions with great prizes on offer!
 
 ## Hackathon Overview
 
-The hackathon consists of two main competitions. These will be released at the start of the hackathon on Friday 13th at 7pm
-on the Teams Group, under the 'General' channel. Submissions should be a script with an accompanying report, and should
-be submitted via the upload link found [here]().
+The hackathon consists of two main competitions: a two-day machine learning competition and a three-week data story-telling competition
+
+To sign-up to the hackathon with a team, fill in the form found [here]().
+You can fill in this form to be put in a team with like-minded people [here](link.wdss.io/hackathon-team-request).
+
+### Machine Learning Competition
+
+The question that will be assessed is:
+> What types of local authority spending make the most impact to reduce deprivation
+
+This competition will run from *7pm on Friday the 13th November* to *7pm on Sunday the 15th November*.
+
+Submissions should be submitted via the upload link found [here]().
+
+### Data Story-Telling Competitio
+
+There are a few questions that can be answered:
+
+> 1. How has COVID-19 changed the need for funding?
+> 2. In what ways does discrimination impact the success of BAME-led organisations?
+> 3. What is the impact of poor environmental standards on life expectancy and quality of living?
+
+This competition will run from *7pm on Friday the 13th November* to *7pm on Friday the 4th December*.
+
+Submissions should be submitted via the upload link found [here]()
 
 ## Heart of England
 
@@ -55,43 +77,28 @@ and internship are open now. Learn more about their opportunities by clicking [h
 
 A rough agenda for the hackathon is as follows:
 
-### Friday 13th November 2020
+| Date |   | Agenda
+| -----|---|--------
+| 13th November | 6-7pm | Live talk on YouTube
+| | 7pm | Instructions and datasets released
+| 14th November | 4-5pm | Check-in session on Teams
+| 15th November | 7pm | Machine Learning competition ends
+| 4th December | 7pm | Data story-telling competition ends
 
-- Instructions to the hackathon
-- Data released
-
-***(6-7pm)*** Live talk on YouTube with Heart of England discussing their work and the Hackathon
-
-***(7pm)*** Hackathon officially begins
-
-### Saturday 14th November 2020
-
-- Opportunity for the teams to ask questions related to the task
-
-***(4-5pm)*** Check-in session on Microsoft Teams
-
-### Sunday 15th November 2020
-
-All submissions must be uploaded
-
-***(7pm)*** Hackathon officially ends and cut-off for submissions
-
-***(7-7:30pm)*** Concluding talk 
-
-### Moving Forward
-
-- Competition winners will be announced and prizes given out
-- Workshops with Warwick Data Science Society and Warwick Statistics Society
+Competition winners will be announced and prizes given out
 
 
 ## FAQs
 
+### How many team members am I allowed?
 
+Teams must be a maximum of 4. 
+If you don't have a team, but would like to be part of one, you can fill the form found [here](link.wdss.io/hackathon-team-request) to be matched with like-minded people.
 
 ## Getting Help
 
 Help will be provided throughout the hackathon in a number of ways
-- Most help can be sought by sending messages on the Teams 'Get Help' channel
+- Most help can be found by messaging 'Get Help' channel on Teams
 - We will also hold some live Q&A sessions
 
 ## Socials
