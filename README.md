@@ -14,7 +14,6 @@ Spotted a mistake, dead link, or have suggestions for improvements? Report these
 * [Getting Help](#getting-help)
 * [Socials](#socials)
 
-
 ## Introduction
 
 The Helping Hack Charity Hackathon is designed to be an inclusive event for anyone to attend, with the aim of giving back.
@@ -34,26 +33,28 @@ You can fill in this form to be put in a team with like-minded people [here](lin
 The question that will be assessed is:
 > What types of local authority spending make the most impact to reduce deprivation
 
-This competition will run from *7pm on Friday the 13th November* to *7pm on Sunday the 15th November*.
+This competition will run from **7pm on Friday the 13th November** to **7pm on Sunday the 15th November**.
 
 Submissions should be submitted via the upload link found [here]().
 
-### Data Story-Telling Competitio
+### Data Story-Telling Competition
 
-There are a few questions that can be answered:
+The three areas of interest proposed by Heart of England are:
 
 > 1. How has COVID-19 changed the need for funding?
 > 2. In what ways does discrimination impact the success of BAME-led organisations?
 > 3. What is the impact of poor environmental standards on life expectancy and quality of living?
 
-This competition will run from *7pm on Friday the 13th November* to *7pm on Friday the 4th December*.
+You can choose to answer as many questions as you want
+
+This competition will run from **7pm on Friday the 13th November** to **7pm on Friday the 4th December**.
 
 Submissions should be submitted via the upload link found [here]()
 
 ## Heart of England
 
 We are working with Heart of England, a charity that raises money to fund and develop local community activity across 
-the West Midlands and Warwickshire. Since 1995, they have distributed over £16 million locally, benefitting an 
+the West Midlands and Warwickshire. Since 1995, they have distributed over £16 million locally, benefiting an 
 estimated 2 million people. 
 
 In 2017/18 they awarded over £2.5 million to support communities across the West Midlands to thrive. Similarly, 
@@ -73,6 +74,9 @@ experience, quantitative project work and game theory education. You don’t nee
 knowledge to be a trader in SIG, they’ll teach you everything you need to know. Applications for the 2021 QT Programme 
 and internship are open now. Learn more about their opportunities by clicking [here](https://www.sig.com/campus-programmes/trading/).
 
+They are kindly providing wireless headphones to each member of the winning machine learning team, and SIG goodie bags
+to the winners of the data story-telling competition.
+
 ## Event Timeline
 
 A rough agenda for the hackathon is as follows:
@@ -85,7 +89,7 @@ A rough agenda for the hackathon is as follows:
 | 15th November | 7pm | Machine Learning competition ends
 | 4th December | 7pm | Data story-telling competition ends
 
-Competition winners will be announced and prizes given out
+Competition winners will be announced and prizes given out once the hackathon ends
 
 
 ## FAQs
@@ -94,6 +98,8 @@ Competition winners will be announced and prizes given out
 
 Teams must be a maximum of 4. 
 If you don't have a team, but would like to be part of one, you can fill the form found [here](link.wdss.io/hackathon-team-request) to be matched with like-minded people.
+
+
 
 ## Getting Help
 
