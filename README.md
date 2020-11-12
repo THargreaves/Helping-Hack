@@ -109,9 +109,9 @@ Help will be provided throughout the hackathon in a number of ways
 
 ## Socials
 
-[Facebook](link.wdss.io/facebook)
-[Instagram](link.wdss.io/instagram)
-[Linkedin](link.wdss.io/linkedin)
-[YouTube](link.wdss.io/youtube)
+[Facebook](https://link.wdss.io/facebook)
+[Instagram](https://link.wdss.io/instagram)
+[Linkedin](https://link.wdss.io/linkedin)
+[YouTube](https://link.wdss.io/youtube)
 
 
